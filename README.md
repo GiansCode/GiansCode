@@ -1,22 +1,21 @@
-👋 - Hi, I'm Gian. I work on Minecraft related projects for a living. I'm available for work, and always down to [chat](mailto:gianscode@gmail.com)! Below, you can see some of my current projects.
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/11025154/194726733-150c8f96-4d79-4a0d-b80b-2d3ffd189e9b.png" alt="Gianluca" />
+</h1>
 
-MinePark | SharksCraft
--- | --
-![MinePark](https://i.imgur.com/KZKHaqo.jpg)| ![SharksCraft](https://i.imgur.com/KZKHaqo.jpg)
-[🌍 Website](https://minepark.club) | [🌍 Website](https://sharkscraft.org)
-[🐦 Twitter](https://twitter.com/mineparkmc) | [🐦 Twitter](https://twitter.com/sharkscraft)
-[🗣 Discord](https://discord.minepark.club) | [🗣 Discord](https://discord.sharkscraft.org)
+## Hey! 👋
+I'm Gian, a Software Developer and Project Manager from South Africa.
 
-Tracked Servers | Nice Server
--- | --
-![Tracked Servers](https://i.imgur.com/KZKHaqo.jpg)| ![Nice Server](https://i.imgur.com/KZKHaqo.jpg)
-[🌍 Website](https://trackedservers.com) | [🌍 Website](https://niceserver.tech)
-[🐦 Twitter](https://twitter.com/gianscode) | [🐦 Twitter](https://twitter.com/aleriumservices)
-[🗣 Discord](https://gianluca.gg/discord) | [🗣 Discord](https://gianluca.gg/discord)
+- 🖥 I run the [SharkBlocks](https://sharkblocks.com) and [Eyserver](https://eyserver.com) Minecraft networks
 
-Alerium Services | Gianluca.gg
--- | --
-![Tracked Servers](https://i.imgur.com/KZKHaqo.jpg)| ![Gianluca.gg](https://i.imgur.com/KZKHaqo.jpg)
-[🌍 Website](https://alerium.io) | [🌍 Website](https://gianluca.gg)
-[🐦 Twitter](https://twitter.com/aleriumservices) | [🐦 Twitter](https://twitter.com/gianscode)
-[🗣 Discord](https://discord.alerium.io) | [🗣 Discord](https://gianluca.gg/discord)
+- 🕹 I'm the CEO & Founder of [Alerium Services](https://alerium.io) (UGC; specialising in Minecraft)
+
+## Skills
+- 👨‍💻 Backend Development (Java, JavaScript, SQL, Redis)
+- 👥 Project & Community Management (Team Lead, Event Host, Curator)
+- 🎥 Video Editing (Final Cut Pro, Premiere Pro, After Effects)
+- 💽 Music Production & Audio Engineering (Logic Pro X)
+
+## Contact
+- [gianluca.gg](https://gianluca.gg)
+- [@gfalcomer](https://twitter.com/gfalcomer) on Twitter
+- [Gianluca#0001](https://lookup.guru/142895980403097600) on Discord
